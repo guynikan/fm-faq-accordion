@@ -1,0 +1,15 @@
+:root {
+  --very-dark-desaturated-blue: hsl(238, 29%, 16%);
+  --soft-red: hsl(14, 88%, 65%);
+  --light-grayish-blue: hsl(240, 5%, 91%);
+
+  --soft-violet: hsl(273, 75%, 66%);
+  --soft-blue: hsl(240, 73%, 65%);
+
+  /* Contextual tokens */
+  --bg-gradient: linear-gradient(var(--soft-violet), var(--soft-blue));
+  --divider: var(--light-grayish-blue);
+  --font-clr-dark-blue: var(--very-dark-grayish-blue);
+  --font-clr-blue: var(--dark-greyish-blue);
+  --font-size: 12px;
+}
